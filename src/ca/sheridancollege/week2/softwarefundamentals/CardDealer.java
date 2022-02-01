@@ -21,7 +21,7 @@ public class CardDealer
         cardSpade.getValue();
          cardSpade.getSuit();
         
-        System.out.println("This card's suit is "+cardSpade.getSuit()+ " and the value is "+ cardSpade.getValue );
+        System.out.println("This card's suit is "+cardSpade.getSuit()+ " and the value is "+ cardSpade.getValue();
          
     }
 }
